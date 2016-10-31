@@ -151,8 +151,8 @@
       ],
       'include_dirs': [
         '../..',
-        '../../../../../v8/include',
-        '../../../../../v8',
+        #'../../../../../v8/include',
+        #'../../../../../v8',
         '<(SHARED_INTERMEDIATE_DIR)/blink',
       ],
       'sources': [
